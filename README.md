@@ -14,3 +14,10 @@ Before running this script, please ensure that your system meets the following r
 - **Network Access:** The computer running the script should have network access to the target servers on your network.
 
 These prerequisites are essential for the proper functioning of the script. Make sure to satisfy these requirements before running it.
+
+## Script Output
+
+The script generates the following output:
+
+![image](https://github.com/Fatmaakarsu/ServerPermissionsAnalyzer/assets/79910837/de515fc7-283a-4de0-885e-4616a2908503)
+
